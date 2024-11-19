@@ -1,0 +1,7 @@
+{
+    "hosting": {
+      "public": "out", // or "dist" as defined in `next.config.mjs`
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+  }
+  
